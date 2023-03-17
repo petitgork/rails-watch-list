@@ -72,3 +72,4 @@ gem "font-awesome-sass"
 gem "simple_form"
 gem "sassc-rails" # Uncomment this line
 gem "dotenv-rails"
+gem "cloudinary"
